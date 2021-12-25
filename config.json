@@ -1,0 +1,6 @@
+{
+    "guildId":"server-id",
+    "channelId":"kanal-id",
+    "token":"bot-token",
+    "delay":40000
+}
